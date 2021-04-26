@@ -16,7 +16,7 @@
 # Compile
 # Py2Exe - http://www.py2exe.org/
 
-# Aggiungere Memorpy bd
+# Memorpy bd should be added.
 
 #IMPORTS
 import os
