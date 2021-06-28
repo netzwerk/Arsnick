@@ -38,3 +38,4 @@ PyHook - https://sourceforge.net/projects/pyhook/files/pyhook/1.5.1/
 # Compile
 Py2Exe - http://www.py2exe.org/
 
+# This projects needs contributors 
