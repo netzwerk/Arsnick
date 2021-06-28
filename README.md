@@ -1,6 +1,6 @@
 # Arsnick
 
-Arsnick is a Python IRC Bot/Backdoor writte in Python.
+Arsnick is a Python IRC Bot/Backdoor written in Python.
 
 Some implementations and debugs are needed.
 
